@@ -31,3 +31,4 @@ git checkout master //切换到主干
 git merge host //合并分支host到主干  
 git branch -d host //删除分支host  
 git remote -v 查看当前在哪一个远程仓库  
+git checkout branchname//切换分支
