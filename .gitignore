@@ -32,6 +32,8 @@ TestResult.xml
 [Rr]eleasePS/
 dlldata.c
 
+*.vcxproj
+*.filters
 *_i.c
 *_p.c
 *_i.h
