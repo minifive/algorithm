@@ -25,4 +25,4 @@ int FirstNotRepeatingChar(string str) {
 //	string str = "google";
 //	int t=FirstNotRepeatingChar(str);
 //	cout << t;
-//}
+//}，，。。。
